@@ -9,3 +9,7 @@ header{
 button{
     font-size: 20;
 }
+#response{
+    font-size: 25;
+    color: mediumpurple;
+}
